@@ -4,6 +4,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/vivekprcs)
 [![Medium](https://img.shields.io/badge/Medium-Read-12100E)](https://medium.com/@vivekprcs)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Participate-F58025)](https://stackoverflow.com/users/3690085/vivek-pratap-singh)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000)](https://leetcode.com/u/kP5vCigPij/)
+
 <p align="left">
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" />
